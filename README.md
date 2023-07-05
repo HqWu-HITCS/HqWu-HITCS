@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 - 🤗[Awesome-Chinese-LLM](https://github.com/HqWu-HITCS/Awesome-Chinese-LLM)
 - 💡 [Awesome-Keyphrase-Prediction](https://github.com/HqWu-HITCS/Awesome-Keyphrase-Prediction)
 - 🗣️[Awesome-Quality-Estimation-for-Machine-Translation](https://github.com/HqWu-HITCS/Awesome-Quality-Estimation-for-Machine-Translation)
+- 😄[Awesome-Sequence-Modeling-for-Recommendation](https://github.com/HqWu-HITCS/Awesome-Sequence-Modeling-for-Recommendation)
 
 ### My github stats
 ![](https://github-readme-stats.vercel.app/api?username=HqWu-HITCS)
