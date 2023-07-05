@@ -1,4 +1,4 @@
-### Hi i’m HqWu
+### Hi, I’m HqWu, I’m interested in LLM, keyphrase prediction, and recommended system.
 
 <!--
 **HqWu-HITCS/HqWu-HITCS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### Some works
+- 🤗[Awesome-Chinese-LLM](https://github.com/HqWu-HITCS/Awesome-Chinese-LLM)
+- 💡 [Awesome-Keyphrase-Prediction](https://github.com/HqWu-HITCS/Awesome-Keyphrase-Prediction)
+- 🗣️[Awesome-Quality-Estimation-for-Machine-Translation](https://github.com/HqWu-HITCS/Awesome-Quality-Estimation-for-Machine-Translation)
+
+### My github stats
 ![](https://github-readme-stats.vercel.app/api?username=HqWu-HITCS)
