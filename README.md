@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ### Some works
 - 🤗[Awesome-Chinese-LLM](https://github.com/HqWu-HITCS/Awesome-Chinese-LLM)
 - 🗣️ [Awesome-LLM-Survey](https://github.com/HqWu-HITCS/Awesome-LLM-Survey)
-- 🤔 [wesome-LLM-Role-Playing](https://github.com/HqWu-HITCS/Awesome-LLM-Role-Playing)
+- 🤔 [Awesome-LLM-Role-Playing](https://github.com/HqWu-HITCS/Awesome-LLM-Role-Playing)
 - 💡 [Awesome-Keyphrase-Prediction](https://github.com/HqWu-HITCS/Awesome-Keyphrase-Prediction)
 - 😄[Awesome-Sequence-Modeling-for-Recommendation](https://github.com/HqWu-HITCS/Awesome-Sequence-Modeling-for-Recommendation)
 
